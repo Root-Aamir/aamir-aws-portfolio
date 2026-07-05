@@ -1,4 +1,4 @@
-﻿# Aamir AWS Portfolio
+# Aamir AWS Portfolio
 
 A modern cloud portfolio website built with React, Vite, and AWS Amplify.
 
@@ -26,12 +26,12 @@ https://main.d1fj9kxl1oyawh.amplifyapp.com/
 
 ## Run Locally
 
-npm install
-npm run dev
+ npm install 
+ npm run dev 
 
 ## Build
 
-npm run build
+ npm run build 
 
 ## Author
 
