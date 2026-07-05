@@ -104,7 +104,7 @@ function App() {
       <section className="hero">
         <div className="heroContent">
           <p className="badge">
-            Freelance Full Stack Developer • AWS Deployment • Cybersecurity-Aware Websites
+            Freelance Full Stack Developer â€¢ AWS Deployment â€¢ Cybersecurity-Aware Websites
           </p>
 
           <h1>
@@ -269,7 +269,7 @@ function App() {
       <section id="contact" className="contact">
         <div>
           <p className="eyebrow">Contact</p>
-          <h2>Let’s build your website professionally.</h2>
+          <h2>Letâ€™s build your website professionally.</h2>
           <p>
             I am available for freelance projects, business websites, React fixes,
             hosting setup, AWS Amplify deployment, and basic website security setup.
